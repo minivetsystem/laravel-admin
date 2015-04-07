@@ -7,4 +7,4 @@ create a database name 'laravel'
 import data form webroot/laravel.sql
 run the script with webroot/foldername/public 
 
-Thanx You  
+Thank You  
